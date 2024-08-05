@@ -7,7 +7,6 @@ This is a responsive admin dashboard built using **HTML 5**, **CSS 3**, and **Ja
 ## Table of Contents 
 - [Prerequisites](#prerequisites)
 - [Running the application](#run-the-application)
-- 
 ## Prerequisites
 
 Install the following prerequisites:
