@@ -7,8 +7,7 @@ This is a responsive admin dashboard built using **HTML 5**, **CSS 3**, and **Ja
 ## Table of Contents 
 - [Prerequisites](#prerequisites)
 - [Running the application](#run-the-application)
-- [Copyright and License](#copyright-and-license)
-
+- 
 ## Prerequisites
 
 Install the following prerequisites:
@@ -26,7 +25,3 @@ To run the application, start the **Live Server** by clicking **Go Live** in the
 ## View the application
 
 Once the **Live Server** is up and running, go to http://127.0.0.1:5500/index.html to view the application.
-
-## Copyright and License
-
-Copyright © 2022 Bob's Programming Academy. Code released under the MIT license.
